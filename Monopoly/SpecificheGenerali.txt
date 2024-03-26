@@ -1,0 +1,14 @@
+CLASSI DA IMPLEMENTARE:
+	-> CASELLA --> Array di caselle
+		           3 categorie (Economica, Standard, Lusso)
+		           Specificare se è angolare o laterale
+		       	   Specifichiamo il proprietario, quando questa viene acquistata
+		           Attributo stinga nome che specifica le costruzioni che ci sono 
+		           Costruttore con un random per generare la categoria
+		           Variabili globali per tenere conto del numero di categorie generate
+	-> DADO --> Metodo che genera du numeri casuali da 1 a 6
+	-> GIOCATORE --> Classe virtuale di cui poi venga fatto l'overloading in due calssi derivate GiocatoreRobot e GiocatoreUmano
+			 Attributo poszione all'interno del tabellone, per indicare la posizione in cui si trova
+	-> TABELLONE --> Implementa un'array di caselle e ne gestisce la stampa
+			
+			 

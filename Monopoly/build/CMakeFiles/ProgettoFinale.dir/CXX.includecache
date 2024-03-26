@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Caselle.h
+memory
+-
+iostream
+-
+string
+-
+ctime
+-
+cstdlib
+-
+
+../include/Dado.h
+
+../include/Human.h
+Player.h
+../include/Player.h
+string
+-
+algorithm
+-
+
+../include/Player.h
+string
+-
+iostream
+-
+Dado.h
+../include/Dado.h
+Caselle.h
+../include/Caselle.h
+
+/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Human.cpp
+Human.h
+/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Human.h
+

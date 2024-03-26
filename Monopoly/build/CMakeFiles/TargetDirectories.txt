@@ -1,0 +1,3 @@
+/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/rebuild_cache.dir
+/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/edit_cache.dir
+/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir
