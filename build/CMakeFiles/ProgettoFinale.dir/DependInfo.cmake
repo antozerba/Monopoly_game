@@ -1,27 +1,29 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Caselle.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Caselle.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Computer.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Computer.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Dado.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Dado.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/GameManagement.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/GameManagement.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Human.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Human.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Player.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Player.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/Tabellone.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/Tabellone.cpp.o"
-  "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/src/main.cpp" "/home/simi/Documenti/Uni/LabDiProgrammazione/Monopoli/Monopoli/Progetto-finale/build/CMakeFiles/ProgettoFinale.dir/src/main.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../include"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/antoniozerbato/Monopoly_game/src/Caselle.cpp" "CMakeFiles/ProgettoFinale.dir/src/Caselle.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Caselle.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/Computer.cpp" "CMakeFiles/ProgettoFinale.dir/src/Computer.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Computer.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/Dado.cpp" "CMakeFiles/ProgettoFinale.dir/src/Dado.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Dado.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/GameManagement.cpp" "CMakeFiles/ProgettoFinale.dir/src/GameManagement.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/GameManagement.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/Human.cpp" "CMakeFiles/ProgettoFinale.dir/src/Human.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Human.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/Player.cpp" "CMakeFiles/ProgettoFinale.dir/src/Player.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Player.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/Tabellone.cpp" "CMakeFiles/ProgettoFinale.dir/src/Tabellone.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/Tabellone.cpp.o.d"
+  "/Users/antoniozerbato/Monopoly_game/src/main.cpp" "CMakeFiles/ProgettoFinale.dir/src/main.cpp.o" "gcc" "CMakeFiles/ProgettoFinale.dir/src/main.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
